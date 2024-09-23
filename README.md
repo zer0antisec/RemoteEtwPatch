@@ -12,6 +12,6 @@ This tool demonstrates how to patch the `EtwEventWrite` and `EtwEventWriteFull` 
 ## Usage:
 ```bash
 ETWPatch.exe <PID>
-
+```
 
 ![image](https://github.com/zer0antisec/RemoteEtwPatch/assets/20486087/e362e236-becf-4588-9dc4-c1995e91857f)
